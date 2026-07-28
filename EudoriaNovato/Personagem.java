@@ -1,4 +1,4 @@
-package Eudorianovato;
+package EudoriaNovato;
 
 public class Personagem {
 	String nome;
